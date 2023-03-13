@@ -24,9 +24,16 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 - Generate a new piece of advice by clicking the dice icon
 
-### Screenshot
+### Screenshots
 
+**Mobile version:**
+<br/>
 ![mobile version](./images/Screenshot%20from%202023-03-13%2009-31-05.png)
+<br/>
+<br>
+<br>
+**Desktop version**
+<br/>
 ![desktop version](./images/Screenshot%20from%202023-03-13%2009-31-33.png)
 
 ### Links
